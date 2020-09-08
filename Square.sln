@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square", "Square/Square.csproj", "{126115dc-96f0-4593-8d8b-c6e0fc863c28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square.Tests", "Square.Tests/Square.Tests.csproj", "{66cc8540-027c-4a81-a529-9b23aeb25468}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {126115dc-96f0-4593-8d8b-c6e0fc863c28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {126115dc-96f0-4593-8d8b-c6e0fc863c28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {126115dc-96f0-4593-8d8b-c6e0fc863c28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {126115dc-96f0-4593-8d8b-c6e0fc863c28}.Release|Any CPU.Build.0 = Release|Any CPU
+        {66cc8540-027c-4a81-a529-9b23aeb25468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {66cc8540-027c-4a81-a529-9b23aeb25468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {66cc8540-027c-4a81-a529-9b23aeb25468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {66cc8540-027c-4a81-a529-9b23aeb25468}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
