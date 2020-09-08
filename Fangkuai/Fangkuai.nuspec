@@ -6,8 +6,8 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://github.com/square/square-dotnet-sdk/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/square/square-dotnet-sdk</projectUrl>
+    <licenseUrl>https://github.com/okenshields/test-dotnet/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/okenshields/test-dotnet</projectUrl>
     <iconUrl>https://avatars2.githubusercontent.com/u/82592</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
